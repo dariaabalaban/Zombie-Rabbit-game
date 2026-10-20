@@ -1,4 +1,5 @@
 # Zombie-Rabbit-game 🥕
+![Zombie-Rabbit gameplay](images/photo_2026-10-20_20-36-44.jpg)
 
 **Zombie Rabbit** — Collect 10 zombies before they eat your crops!
 
